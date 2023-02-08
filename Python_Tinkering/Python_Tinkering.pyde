@@ -1,1 +1,7 @@
-print("Hello World")
+def setup():
+    pass
+    
+
+def draw():
+    pass
+    
