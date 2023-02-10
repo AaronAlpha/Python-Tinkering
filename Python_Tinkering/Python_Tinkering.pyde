@@ -4,9 +4,11 @@ yCenter = 0
 
 def setup():
     size(500, 500)
-    global xCenter = width/2
-    global yCenter = height/2 
+    global xCenter
+    global yCenter
     
+    xCenter = width/2
+    yCenter = height/2 
 
 def draw():
     
